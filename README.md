@@ -12,4 +12,5 @@ A place for all completed LeetCode questions
 | [0178-rank-scores](https://github.com/mcorder4/Leet-Code/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/mcorder4/Leet-Code/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/mcorder4/Leet-Code/tree/master/0182-duplicate-emails) |
+| [0619-biggest-single-number](https://github.com/mcorder4/Leet-Code/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->

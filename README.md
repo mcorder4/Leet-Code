@@ -19,5 +19,6 @@ A place for all completed LeetCode questions
 | [0584-find-customer-referee](https://github.com/mcorder4/Leet-Code/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/mcorder4/Leet-Code/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0619-biggest-single-number](https://github.com/mcorder4/Leet-Code/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/mcorder4/Leet-Code/tree/master/0620-not-boring-movies) |
 | [1179-game-play-analysis-i](https://github.com/mcorder4/Leet-Code/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->

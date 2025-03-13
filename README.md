@@ -18,6 +18,7 @@ A place for all completed LeetCode questions
 | [0197-rising-temperature](https://github.com/mcorder4/Leet-Code/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/mcorder4/Leet-Code/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/mcorder4/Leet-Code/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/mcorder4/Leet-Code/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/mcorder4/Leet-Code/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/mcorder4/Leet-Code/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/mcorder4/Leet-Code/tree/master/0620-not-boring-movies) |
